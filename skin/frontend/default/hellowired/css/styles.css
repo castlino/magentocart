@@ -1654,7 +1654,15 @@ f/********** Product Prices > */
 .wired-home { }
 
 .wired-home .slider { float: left; width: 674px; height: 328px; position:relative; }
-#slider .panel img { height: 328px; width: 674px;}
+#slider .panel img { 
+	height: 328px;
+	width: 674px;
+
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+		
+}
 #slider .panel span.comment { display:block;float:left;width: 674px;}
 .wired-home .promo-right { float: right; width: 265px; }
 .wired-home .promo-right img { margin-bottom: 22px; }
