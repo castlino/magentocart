@@ -1,0 +1,12 @@
+    <div class="nav-container">
+    <ul id="nav">
+
+
+                 <li class="home active"><a href="http://magento.linonico.com/?___SID=U"><span>Home</span></a></li> 
+    
+        <li class="level0 nav-1">
+<a href="http://magento.linonico.com/home-goods.html?___SID=U">
+<span>Home Goods</span>
+</a>
+</li>    </ul>
+</div>

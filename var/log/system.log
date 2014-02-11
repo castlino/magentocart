@@ -1,0 +1,12 @@
+2014-01-19T23:08:42+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:08:42+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:36+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:37+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:37+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:46+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:46+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-19T23:43:46+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-21T04:40:18+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-21T04:40:19+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-21T04:40:19+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
+2014-01-21T22:40:25+00:00 ERR (3): Warning: include(): Unable to allocate memory for pool.  in /var/www/prod/magento/lib/Varien/Autoload.php on line 93
