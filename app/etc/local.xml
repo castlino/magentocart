@@ -53,6 +53,10 @@
             </default_setup>
         </resources>
         <session_save><![CDATA[db]]></session_save>
+        <cache>
+          <backend>apc</backend>
+            <prefix>mystore_</prefix>
+        </cache>
     </global>
     <admin>
         <routers>
